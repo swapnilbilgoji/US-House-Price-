@@ -1,4 +1,3 @@
-Here’s an updated README.md file content for your US-House-Price- project, now including the most prominent model coefficients from your notebook and an explanation of how they relate to the target feature (house price):
 
 ---
 
